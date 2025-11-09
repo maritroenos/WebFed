@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Marissa Troenosemito
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Responsive
  
 </details>
 
@@ -36,15 +36,32 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.totzover.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Home pagina  
+  <img src="readme-images/home1_totzover.png" width="375px" alt="homepagina">
+  <img src="readme-images/home2_totzover.png" width="375px" alt="homepagina">
+  <img src="readme-images/home3_totzover.png" width="375px" alt="homepagina">
+  <img src="readme-images/home4_totzover.png" width="375px" alt="homepagina">
+  <img src="readme-images/home5_totzover.png" width="375px" alt="homepagina">
+  <img src="readme-images/home6_totzover.png" width="375px" alt="homepagina">
+  <img src="readme-images/home7_totzover.png" width="375px" alt="homepagina">
+  <img src="readme-images/home8_totzover.png" width="375px" alt="homepagina">
+  <img src="readme-images/home9_totzover.png" width="375px" alt="homepagina">
+  <img src="readme-images/home10_totzover.png" width="375px" alt="homepagina">
+  <img src="readme-images/home11_totzover.png" width="375px" alt="homepagina">
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Over de grens 
+  <img src="readme-images/grens1_totzover.png" width="375px" alt="overdegrens">
+  <img src="readme-images/grens2_totzover.png" width="375px" alt="overdegren">
+  <img src="readme-images/grens3_totzover.png" width="375px" alt="overdegren">
+  <img src="readme-images/grens4_totzover.png" width="375px" alt="overdegren">
+  <img src="readme-images/grens5_totzover.png" width="375px" alt="overdegren">
+ 
+ 
  
 </details>
 
