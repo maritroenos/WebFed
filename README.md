@@ -105,19 +105,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  Ik loop een weekje achter (ziek), het duurt een beetje om in te komen. Met oefenopdrachten valt mij gelijk op dat ik er erg lang over doet om het te kunnen begrijpen. Daar moet ik nog even meer aandacht aan besteden. Zover heb ik geprobeerd mijn HTML af te maken + alle afbeeldingen die ik kon krijgen. Uit de validator kwam ik er snel achter dat sections een heading moet hebben, het is een warning geen error maar nog steeds belangrijk om naar te kijken. Ook vind ik dat mijn breakdown schets niet precies klopt, ik heb veel sections maar ik vermoed dat er ook paar articles in zit ipv sections. 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  - student Suzanne Moolenburgh
+    1. Vraag over form met button + input + popover element
+    2. Footer tabbladen
+    3. Aria-labels
+    4. Herkleuren SVG iconen met CSS    
 
-
+ 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
